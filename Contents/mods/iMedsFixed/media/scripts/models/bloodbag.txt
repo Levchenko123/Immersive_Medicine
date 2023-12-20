@@ -1,0 +1,49 @@
+module Base {
+	model FullBloodBagGround
+    {
+        mesh = WorldItems/bloodbag/Bloodbag,
+        texture = uv/FullBloodBag,
+    }
+
+    model FullBloodBag
+    {
+        mesh = items/bloodbag/Bloodbag,
+        texture = uv/FullBloodBag,
+    }
+
+	model EmptyBloodBagGround
+    {
+        mesh = WorldItems/bloodbag/Bloodbag,
+        texture = uv/EmptyBloodBag,
+    }
+
+    model EmptyBloodBag
+    {
+        mesh = items/bloodbag/Bloodbag,
+        texture = uv/EmptyBloodBag,
+    }
+
+	model CatheterGround
+    {
+        mesh = WorldItems/bloodbag/Catheter,
+        texture = uv/Catheter,
+    }
+
+    model Catheter
+    {
+        mesh = items/bloodbag/Catheter,
+        texture = uv/Catheter,
+    }
+
+	model PlasmaBagGround
+    {
+        mesh = WorldItems/bloodbag/Bloodbag,
+        texture = uv/PlasmaBag,
+    }
+
+    model PlasmaBag
+    {
+        mesh = items/bloodbag/Bloodbag,
+        texture = uv/PlasmaBag,
+    }
+}

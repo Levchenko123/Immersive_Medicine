@@ -1,0 +1,35 @@
+module iMeds {
+    imports {
+        Base
+    }
+
+    item Morphine
+    {
+        Weight = 0.05,
+        Type = Drainable,
+        UseWhileEquipped = FALSE,
+        UseDelta = 1,
+        DisplayName = Morphine,
+        Icon = AmpouleRed,
+        Medical = TRUE,
+        DisplayCategory = FirstAid,
+        StaticModel = Ampoule,
+        WorldStaticModel = AmpouleGround,
+        OnCreate = DrugCreator.OnCreateDrug,
+    }
+
+    item MorphinePack
+    {
+        Weight = 0.5,
+        Type = Drainable,
+        UseWhileEquipped = FALSE,
+        UseDelta = 0.1,
+        DisplayName = Morphine Pack,
+        Icon = MorphinePack,
+        Tooltip = UI_Item_MorphinePack_Description,
+        Medical = TRUE,
+        DisplayCategory = FirstAid,
+        StaticModel = MorphinePack,
+        WorldStaticModel = MorphinePackGround,
+    }
+}

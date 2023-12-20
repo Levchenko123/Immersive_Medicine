@@ -1,0 +1,3 @@
+DrugApplier = {
+    fullType = 'iMeds.DrugApplier'
+}

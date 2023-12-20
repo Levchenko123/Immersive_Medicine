@@ -1,0 +1,8 @@
+Sandbox_RU = {
+    Sandbox_ImmersiveMedicine = "Immersive Medicine",
+    Sandbox_IsBloodSystemActive = "Включить систему крови",
+    Sandbox_IsBloodTypeSystemActive = "Включить группы крови",
+    Sandbox_IsHeartbeatEnabled = "Включить звук сердцебиения",
+    Sandbox_BloodVolumeReduceModifier = "Модификатор потери крови",
+    Sandbox_BloodVolumeIncreaseModifier = "Модификатор восстановления крови",
+}

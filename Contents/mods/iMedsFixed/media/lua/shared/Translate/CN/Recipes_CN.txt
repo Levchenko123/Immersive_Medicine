@@ -1,0 +1,4 @@
+Recipe_CN = {
+	Recipe_Disinfect_Blood_Bag = "消毒血袋",
+	Recipe_Clean_Blood_Bag = "清理血袋",
+}

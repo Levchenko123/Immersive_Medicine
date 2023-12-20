@@ -1,0 +1,35 @@
+module iMeds {
+    imports {
+        Base
+    }
+
+    item Nasivion
+    {
+        Weight = 0.05,
+        Type = Drainable,
+        UseWhileEquipped = FALSE,
+        UseDelta = 0.01,
+        DisplayName = Nasivion,
+        Icon = Nasivion,
+        Medical = TRUE,
+        DisplayCategory = FirstAid,
+        StaticModel = Nasivion,
+        WorldStaticModel = NasivionGround,
+        OnCreate = DrugCreator.OnCreateDrug,
+    }
+
+    item NasivionPack
+    {
+        Weight = 0.075,
+        Type = Drainable,
+        UseWhileEquipped = FALSE,
+        UseDelta = 1,
+        DisplayName = Nasivion Pack,
+        Icon = NasivionPack,
+        Tooltip = UI_Item_NasivionPack_Description,
+        Medical = TRUE,
+        DisplayCategory = FirstAid,
+        StaticModel = NasivionPack,
+        WorldStaticModel = NasivionPackGround,
+    }
+}

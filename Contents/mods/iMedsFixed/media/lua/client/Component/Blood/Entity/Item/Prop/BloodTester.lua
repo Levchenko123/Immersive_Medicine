@@ -1,0 +1,3 @@
+BloodTester = {
+    fullType = 'iMeds.BloodTester'
+}

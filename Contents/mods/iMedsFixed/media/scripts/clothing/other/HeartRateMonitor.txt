@@ -1,0 +1,41 @@
+module Base {
+    item HeartRateMonitorLeft
+    {
+        DisplayCategory = FirstAid,
+        Type = AlarmClockClothing,
+        DisplayName = Knox Electro KE 3000,
+        ClothingItem = HeartRateMonitorRight,
+        ClothingItemExtra = HeartRateMonitorLeft,
+        BodyLocation = LeftWrist,
+        Icon = HeartRateMonitor,
+        Weight = 0.1,
+        ClothingItemExtraOption = LeftWrist,
+        clothingExtraSubmenu = RightWrist,
+        Cosmetic = TRUE,
+        AlarmSound = WatchAlarmLoop,
+        SoundRadius = 7,
+        MetalValue = 2,
+        Tags = Digital,
+        WorldStaticModel = DigitalWatchBlack,
+    }
+
+    item HeartRateMonitorRight
+    {
+        DisplayCategory = FirstAid,
+        Type = AlarmClockClothing,
+        DisplayName = Knox Electro KE 3000,
+        ClothingItem = HeartRateMonitorLeft,
+        ClothingItemExtra = HeartRateMonitorRight,
+        BodyLocation = RightWrist,
+        Icon = HeartRateMonitor,
+        Weight = 0.1,
+        ClothingItemExtraOption = RightWrist,
+        clothingExtraSubmenu = LeftWrist,
+        Cosmetic = TRUE,
+        AlarmSound = WatchAlarmLoop,
+        SoundRadius = 7,
+        MetalValue = 2,
+        Tags = Digital,
+        WorldStaticModel = DigitalWatchBlack,
+    }
+}

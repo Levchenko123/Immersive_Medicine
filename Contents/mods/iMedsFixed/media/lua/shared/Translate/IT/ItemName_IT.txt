@@ -1,0 +1,39 @@
+ItemName_IT = {
+    ItemName_iMeds.EmptyBloodBag = "Sacca di sangue vuota",
+    ItemName_iMeds.FullBloodBag = "Sacca di sangue vuota piena",
+    ItemName_iMeds.PeripheralVenousCatheter = "Agocannula",
+    ItemName_iMeds.BloodVolumeReducer = "Elemento di sistema",
+    ItemName_iMeds.DrugApplier = "Elemento di sistema",
+    ItemName_iMeds.BloodVolumeIncreaser = "Elemento di sistema",
+    ItemName_iMeds.SyringePack = "Confezione di siringhe da 5 ml",
+    ItemName_iMeds.Syringe = "Siringa da 5 ml",
+    ItemName_iMeds.NeedlePack = "Confezione di aghi da iniezione",
+    ItemName_iMeds.Needle = "Ago da iniezione",
+    ItemName_iMeds.SyringeWithNeedle = "Siringa per iniezioni i/v i/m",
+    ItemName_iMeds.FullSyringeWithNeedle = "Siringa con medicinale",
+
+    ItemName_iMeds.Alkagin = "Alkagin",
+    ItemName_iMeds.AlkaginPack = "Confezione di Alkagin",
+
+    ItemName_iMeds.BismuthSubsalicylate = "Subsalicilato di bismuto",
+    ItemName_iMeds.BismuthSubsalicylatePack = "Confezione di subsalicilato di bismuto",
+
+    ItemName_iMeds.Morphine = "Morfina",
+    ItemName_iMeds.MorphinePack = "Confezione di morfina",
+
+    ItemName_iMeds.Naloxon = "Naloxone",
+    ItemName_iMeds.NaloxonPack = "Confezione di naloxone",
+
+    ItemName_iMeds.Butamirate = "Butamirato",
+    ItemName_iMeds.ButamiratePack = "Confezione di butamirato",
+
+    ItemName_iMeds.HemoStop = "HemoStop",
+    ItemName_iMeds.HemoStopPack = "Confezione di HemoStop",
+
+    ItemName_iMeds.Umifenovir = "Umifenovir",
+    ItemName_iMeds.UmifenovirPack = "Confezione di umifenovir",
+
+    ItemName_iMeds.UnknownPack = "Confezione di farmaco sconosciuto",
+
+    ItemName_iMeds.BloodTestingKit = "Kit per analisi del sangue",
+}

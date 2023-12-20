@@ -1,0 +1,8 @@
+Sandbox_EN = {
+    Sandbox_ImmersiveMedicine = "Immersive medicine",
+    Sandbox_IsBloodSystemActive = "Enable Blood System",
+    Sandbox_IsBloodTypeSystemActive = "Enable Blood groups",
+    Sandbox_IsHeartbeatEnabled = "Enable heartbeat sound",
+    Sandbox_BloodVolumeReduceModifier = "Blood volume reduce modifier",
+    Sandbox_BloodVolumeIncreaseModifier = "Blood volume increase modifier",
+}

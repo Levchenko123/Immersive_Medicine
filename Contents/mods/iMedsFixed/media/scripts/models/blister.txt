@@ -1,0 +1,13 @@
+module Base {
+	model BlisterGround
+    {
+        mesh = WorldItems/pill/Blister,
+        texture = uv/Blister,
+    }
+
+    model Blister
+    {
+        mesh = items/pill/Blister,
+        texture = uv/Blister,
+    }
+}

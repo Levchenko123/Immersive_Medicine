@@ -1,0 +1,69 @@
+ItemName_EN = {
+    ItemName_iMeds.EmptyBloodBag = "Empty blood bag",
+    ItemName_iMeds.FullBloodBag = "Full blood bag",
+    ItemName_iMeds.PeripheralVenousCatheter = "IV Catheter",
+    ItemName_iMeds.BloodVolumeReducer = "System item",
+    ItemName_iMeds.DrugApplier = "System item",
+    ItemName_iMeds.BloodVolumeIncreaser = "System item",
+    ItemName_iMeds.SyringePack = "Pack of syringes 5 ml.",
+    ItemName_iMeds.Syringe = "5 ml syringe",
+    ItemName_iMeds.NeedlePack = "Injection needles pack",
+    ItemName_iMeds.Needle = "Injection needle",
+    ItemName_iMeds.SyringeWithNeedle = "Syringe for i/v i/m injections",
+    ItemName_iMeds.FullSyringeWithNeedle = "Syringe with a drug",
+
+    ItemName_iMeds.Alkagin = "Alkagin",
+    ItemName_iMeds.AlkaginPack = "Alkagine pack",
+
+    ItemName_iMeds.BismuthSubsalicylate = "Bismuth Subsalicylate",
+    ItemName_iMeds.BismuthSubsalicylatePack = "Bismuth Subsalicylate Pack",
+
+    ItemName_iMeds.Morphine = "Morphine",
+    ItemName_iMeds.MorphinePack = "Morphine pack",
+
+    ItemName_iMeds.Naloxon = "Naloxon",
+    ItemName_iMeds.NaloxonPack = "Naloxon pack",
+
+    ItemName_iMeds.Butamirate = "Butamirate",
+    ItemName_iMeds.ButamiratePack = "Butamirate pack",
+
+    ItemName_iMeds.HemoStop = "HemoStop",
+    ItemName_iMeds.HemoStopPack = "HemoStop pack",
+
+    ItemName_iMeds.Umifenovir = "Umifenovir",
+    ItemName_iMeds.UmifenovirPack = "Umifenovir pack",
+
+    ItemName_iMeds.Nasivion = "Nasivion",
+    ItemName_iMeds.NasivionPack = "Nasivion pack",
+
+    ItemName_iMeds.Erythropoietin = "Erythropoietin",
+    ItemName_iMeds.ErythropoietinPack = "Erythropoietin pack",
+
+    ItemName_iMeds.UnknownPack = "Unknown drug pack",
+
+    ItemName_iMeds.BloodTestingKit = "Blood testing kit",
+
+    ItemName_iMeds.ErythrocyteSuspensionBagABN = "Erythrocyte suspension bag AB(IV) Rh-",
+    ItemName_iMeds.ErythrocyteSuspensionBagABP = "Erythrocyte suspension bag AB(IV) Rh+",
+    ItemName_iMeds.ErythrocyteSuspensionBagAN = "Erythrocyte suspension bag A(II) Rh-",
+    ItemName_iMeds.ErythrocyteSuspensionBagAP = "Erythrocyte suspension bag A(II) Rh+",
+    ItemName_iMeds.ErythrocyteSuspensionBagBN = "Erythrocyte suspension bag B(III) Rh-",
+    ItemName_iMeds.ErythrocyteSuspensionBagBP = "Erythrocyte suspension bag B(III) Rh+",
+    ItemName_iMeds.ErythrocyteSuspensionBagON = "Erythrocyte suspension bag O(I) Rh-",
+    ItemName_iMeds.ErythrocyteSuspensionBagOP = "Erythrocyte suspension bag O(I) Rh+",
+
+    ItemName_iMeds.PlasmaBagABN = "Blood plasma bag AB(IV) Rh-",
+    ItemName_iMeds.PlasmaBagABP = "Blood plasma bag AB(IV) Rh+",
+    ItemName_iMeds.PlasmaBagAN = "Blood plasma bag A(II) Rh-",
+    ItemName_iMeds.PlasmaBagAP = "Blood plasma bag A(II) Rh+",
+    ItemName_iMeds.PlasmaBagBN = "Blood plasma bag B(III) Rh-",
+    ItemName_iMeds.PlasmaBagBP = "Blood plasma bag B(III) Rh+",
+    ItemName_iMeds.PlasmaBagON = "Blood plasma bag O(I) Rh-",
+    ItemName_iMeds.PlasmaBagOP = "O(I)Rh+ blood plasma bag",
+
+    ItemName_iMeds.Stethoscope = "Stethoscope",
+    ItemName_Base.BloodPressureMonitorLeft = "Tonometer Nanasonic EW3039S",
+    ItemName_Base.BloodPressureMonitorRight = "Tonometer Nanasonic EW3039S",
+    ItemName_Base.HeartRateMonitorLeft = "Sport tester Knox Electro KE 3000",
+    ItemName_Base.HeartRateMonitorRight = "Sport tester Knox Electro KE 3000",
+}

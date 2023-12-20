@@ -1,0 +1,49 @@
+module Base {
+	model SyringeGround
+    {
+        mesh = WorldItems/syringe/Syringe,
+        texture = uv/Syringe,
+    }
+
+	model Syringe
+    {
+        mesh = items/syringe/Syringe,
+        texture = uv/Syringe,
+    }
+
+	model SyringePackGround
+    {
+        mesh = WorldItems/syringe/SyringePack,
+        texture = uv/SyringePack,
+    }
+
+	model SyringePack
+    {
+        mesh = items/syringe/SyringePack,
+        texture = uv/SyringePack,
+    }
+
+	model InjectionNeedleGround
+    {
+        mesh = WorldItems/syringe/InjectionNeedle,
+        texture = uv/InjectionNeedle,
+    }
+
+	model InjectionNeedle
+    {
+        mesh = items/syringe/InjectionNeedle,
+        texture = uv/InjectionNeedle,
+    }
+
+	model NeedlePackGround
+    {
+        mesh = WorldItems/pill/PillPack,
+        texture = uv/NeedlePack,
+    }
+
+	model NeedlePack
+    {
+        mesh = items/pill/PillPack,
+        texture = uv/NeedlePack,
+    }
+}

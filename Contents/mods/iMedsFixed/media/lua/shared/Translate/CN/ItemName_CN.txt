@@ -1,0 +1,69 @@
+ItemName_CN = {
+    ItemName_iMeds.EmptyBloodBag = "空血袋",
+    ItemName_iMeds.FullBloodBag = "血袋",
+    ItemName_iMeds.PeripheralVenousCatheter = "留置针",
+    ItemName_iMeds.BloodVolumeReducer = "系统物品",
+    ItemName_iMeds.DrugApplier = "系统物品",
+    ItemName_iMeds.BloodVolumeIncreaser = "系统物品",
+    ItemName_iMeds.SyringePack = "包装5毫升注射器",
+    ItemName_iMeds.Syringe = "5毫升注射器",
+    ItemName_iMeds.NeedlePack = "包装注射器针头",
+    ItemName_iMeds.Needle = "注射器针头",
+    ItemName_iMeds.SyringeWithNeedle = "静脉/肌注用注射器",
+    ItemName_iMeds.FullSyringeWithNeedle = "含有药物的注射器",
+
+    ItemName_iMeds.Alkagin = "安乃近",
+    ItemName_iMeds.AlkaginPack = "包装安乃近",
+
+    ItemName_iMeds.BismuthSubsalicylate = "碱式水杨酸铋",
+    ItemName_iMeds.BismuthSubsalicylatePack = "包装碱式水杨酸铋",
+
+    ItemName_iMeds.Morphine = "吗啡",
+    ItemName_iMeds.MorphinePack = "包装吗啡",
+
+    ItemName_iMeds.Naloxon = "纳洛酮",
+    ItemName_iMeds.NaloxonPack = "包装纳洛酮",
+
+    ItemName_iMeds.Butamirate = "咳息定",
+    ItemName_iMeds.ButamiratePack = "包装咳息定",
+
+    ItemName_iMeds.HemoStop = "血立停",
+    ItemName_iMeds.HemoStopPack = "包装血立停",
+
+    ItemName_iMeds.Umifenovir = "阿比朵尔",
+    ItemName_iMeds.UmifenovirPack = "包装阿比朵尔",
+
+    ItemName_iMeds.Nasivion = "纳吸维",
+    ItemName_iMeds.NasivionPack = "包装纳吸维",
+
+    ItemName_iMeds.Erythropoietin = "促红细胞生成素",
+    ItemName_iMeds.ErythropoietinPack = "包装促红细胞生成素",
+
+    ItemName_iMeds.UnknownPack = "包装未知药物",
+
+    ItemName_iMeds.BloodTestingKit = "血型检测套件",
+
+    ItemName_iMeds.ErythrocyteSuspensionBagABN = "红细胞悬液包 AB(IV)型 Rh阴性",
+    ItemName_iMeds.ErythrocyteSuspensionBagABP = "红细胞悬液包 AB(IV)型 Rh阳性",
+    ItemName_iMeds.ErythrocyteSuspensionBagAN = "红细胞悬液包 A(II)型 Rh阴性",
+    ItemName_iMeds.ErythrocyteSuspensionBagAP = "红细胞悬液包 A(II)型 Rh阳性",
+    ItemName_iMeds.ErythrocyteSuspensionBagBN = "红细胞悬液包 B(III)型 Rh阴性",
+    ItemName_iMeds.ErythrocyteSuspensionBagBP = "红细胞悬液包 B(III)型 Rh阳性",
+    ItemName_iMeds.ErythrocyteSuspensionBagON = "红细胞悬液包 O(I)型 Rh阴性",
+    ItemName_iMeds.ErythrocyteSuspensionBagOP = "红细胞悬液包 O(I)型 Rh阳性",
+
+    ItemName_iMeds.PlasmaBagABN = "血浆包 AB(IV)型 Rh阴性",
+    ItemName_iMeds.PlasmaBagABP = "血浆包 AB(IV)型 Rh阳性",
+    ItemName_iMeds.PlasmaBagAN = "血浆包 A(II)型 Rh阴性",
+    ItemName_iMeds.PlasmaBagAP = "血浆包 A(II)型 Rh阳性",
+    ItemName_iMeds.PlasmaBagBN = "血浆包 B(III)型 Rh阴性",
+    ItemName_iMeds.PlasmaBagBP = "血浆包 B(III)型 Rh阳性",
+    ItemName_iMeds.PlasmaBagON = "血浆包 O(I)型 Rh阴性",
+    ItemName_iMeds.PlasmaBagOP = "血浆包 O(I)型 Rh阳性",
+
+    ItemName_iMeds.Stethoscope = "听诊器",
+    ItemName_Base.BloodPressureMonitorLeft = "血压计（松下 EW3039S）",
+    ItemName_Base.BloodPressureMonitorRight = "血压计（松下 EW3039S）",
+    ItemName_Base.HeartRateMonitorLeft = "心率监测器（诺克斯电子 KE 3000）",
+    ItemName_Base.HeartRateMonitorRight = "心率监测器（诺克斯电子 KE 3000）",
+}

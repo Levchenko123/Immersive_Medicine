@@ -1,0 +1,3 @@
+BloodVolumeReducer = {
+    fullType = 'iMeds.BloodVolumeReducer'
+}

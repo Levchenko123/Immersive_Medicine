@@ -1,0 +1,6 @@
+Sandbox_CN = {
+    Sandbox_ImmersiveMedicine = "沉浸式医药",
+    Sandbox_IsBloodSystemActive = "启用血液系统",
+    Sandbox_IsBloodTypeSystemActive = "启用血型",
+    Sandbox_IsHeartbeatEnabled = "启用心跳音效",
+}

@@ -1,0 +1,69 @@
+ItemName_RU = {
+    ItemName_iMeds.EmptyBloodBag = "Пустой пакет крови",
+    ItemName_iMeds.FullBloodBag = "Полный пакет крови",
+    ItemName_iMeds.PeripheralVenousCatheter = "Катетер для внутривенного переливания",
+    ItemName_iMeds.BloodVolumeReducer = "Системный предмет",
+    ItemName_iMeds.DrugApplier = "Системный предмет",
+    ItemName_iMeds.SyringePack = "Упаковка шприцев 5 мл.",
+    ItemName_iMeds.Syringe = "Шприц 5 мл.",
+    ItemName_iMeds.NeedlePack = "Упаковка инъекционных игл",
+    ItemName_iMeds.Needle = "Инъекционная игла",
+    ItemName_iMeds.SyringeWithNeedle = "Шприц для в/в в/м инъекций",
+    ItemName_iMeds.FullSyringeWithNeedle = "Шприц с препаратом",
+    ItemName_iMeds.BloodVolumeIncreaser = "Системный предмет",
+
+    ItemName_iMeds.Alkagin = "Алкагин",
+    ItemName_iMeds.AlkaginPack = "Упаковка алкагина",
+
+    ItemName_iMeds.BismuthSubsalicylate = "Висмута Субсалицилат",
+    ItemName_iMeds.BismuthSubsalicylatePack = "Упаковка препарата (Висмута Субсалицилат)",
+
+    ItemName_iMeds.Morphine = "Ампула морфия",
+    ItemName_iMeds.MorphinePack = "Упаковка ампул морфия",
+
+    ItemName_iMeds.Naloxon = "Ампула налоксона",
+    ItemName_iMeds.NaloxonPack = "Упаковка ампул налоксона",
+
+    ItemName_iMeds.Butamirate = "Бутамират",
+    ItemName_iMeds.ButamiratePack = "Упаковка бутамирата",
+
+    ItemName_iMeds.HemoStop = "ГемоСтоп",
+    ItemName_iMeds.HemoStopPack = "Упаковка "ГемоСтоп"",
+
+    ItemName_iMeds.Umifenovir = "Умифеновир",
+    ItemName_iMeds.UmifenovirPack = "Упаковка умифеновира",
+
+    ItemName_iMeds.Nasivion = "Називион",
+    ItemName_iMeds.NasivionPack = "Упаковка називиона",
+
+    ItemName_iMeds.Erythropoietin = "Эритропоэтин",
+    ItemName_iMeds.ErythropoietinPack = "Упаковка эритропоэтина",
+
+    ItemName_iMeds.UnknownPack = "Упаковка неизвестного препарата",
+
+    ItemName_iMeds.BloodTestingKit = "Комплект для определения группы крови",
+
+    ItemName_iMeds.ErythrocyteSuspensionBagABN = "Эритроцитная взвесь AB(IV) Rh-",
+    ItemName_iMeds.ErythrocyteSuspensionBagABP = "Эритроцитная взвесь AB(IV) Rh+",
+    ItemName_iMeds.ErythrocyteSuspensionBagAN = "Эритроцитная взвесь A(II) Rh-",
+    ItemName_iMeds.ErythrocyteSuspensionBagAP = "Эритроцитная взвесь A(II) Rh+",
+    ItemName_iMeds.ErythrocyteSuspensionBagBN = "Эритроцитная взвесь B(III) Rh-",
+    ItemName_iMeds.ErythrocyteSuspensionBagBP = "Эритроцитная взвесь B(III) Rh+",
+    ItemName_iMeds.ErythrocyteSuspensionBagON = "Эритроцитная взвесь O(I) Rh-",
+    ItemName_iMeds.ErythrocyteSuspensionBagOP = "Эритроцитная взвесь O(I) Rh+",
+
+    ItemName_iMeds.PlasmaBagABN = "Пакет плазмы крови AB(IV) Rh-",
+    ItemName_iMeds.PlasmaBagABP = "Пакет плазмы крови AB(IV) Rh+",
+    ItemName_iMeds.PlasmaBagAN = "Пакет плазмы крови A(II) Rh-",
+    ItemName_iMeds.PlasmaBagAP = "Пакет плазмы крови A(II) Rh+",
+    ItemName_iMeds.PlasmaBagBN = "Пакет плазмы крови B(III) Rh-",
+    ItemName_iMeds.PlasmaBagBP = "Пакет плазмы крови B(III) Rh+",
+    ItemName_iMeds.PlasmaBagON = "Пакет плазмы крови O(I) Rh-",
+    ItemName_iMeds.PlasmaBagOP = "Пакет плазмы крови O(I) Rh+",
+
+    ItemName_iMeds.Stethoscope = "Стетоскоп",
+    ItemName_Base.BloodPressureMonitorLeft = "Тонометр Nanasonic EW3039S",
+    ItemName_Base.BloodPressureMonitorRight = "Тонометр Nanasonic EW3039S",
+    ItemName_Base.HeartRateMonitorLeft = "Пульсометр Knox Electro KE 3000",
+    ItemName_Base.HeartRateMonitorRight = "Пульсометр Knox Electro KE 3000",
+}

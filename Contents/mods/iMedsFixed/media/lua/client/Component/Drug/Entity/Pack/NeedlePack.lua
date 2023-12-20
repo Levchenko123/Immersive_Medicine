@@ -1,0 +1,3 @@
+NeedlePack = {
+    fullType = 'iMeds.NeedlePack',
+}

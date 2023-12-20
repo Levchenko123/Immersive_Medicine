@@ -1,0 +1,35 @@
+module iMeds {
+    imports {
+        Base
+    }
+
+    item Alkagin
+    {
+        Weight = 0.05,
+        Type = Drainable,
+        UseWhileEquipped = FALSE,
+        UseDelta = 1,
+        DisplayName = Alkagin,
+        Icon = AmpouleGreen,
+        Medical = TRUE,
+        DisplayCategory = FirstAid,
+        StaticModel = Ampoule,
+        WorldStaticModel = AmpouleGround,
+        OnCreate = DrugCreator.OnCreateDrug,
+    }
+
+    item AlkaginPack
+    {
+        Weight = 0.5,
+        Type = Drainable,
+        UseWhileEquipped = FALSE,
+        UseDelta = 0.1,
+        DisplayName = Alkagin Pack,
+        Icon = AlkaginPack,
+        Tooltip = UI_Item_AlkaginPack_Description,
+        Medical = TRUE,
+        DisplayCategory = FirstAid,
+        StaticModel = AlkaginPack,
+        WorldStaticModel = AlkaginPackGround,
+    }
+}

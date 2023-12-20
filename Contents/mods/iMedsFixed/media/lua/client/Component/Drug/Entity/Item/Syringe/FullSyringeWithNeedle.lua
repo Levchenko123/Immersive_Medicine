@@ -1,0 +1,3 @@
+FullSyringeWithNeedle = {
+    fullType = 'iMeds.FullSyringeWithNeedle'
+}

@@ -1,0 +1,13 @@
+module Base {
+	model BismuthSubsalicylatePackGround
+    {
+        mesh = WorldItems/pill/PillPack,
+        texture = uv/drug/BismuthSubsalicylatePack,
+    }
+
+    model BismuthSubsalicylatePack
+    {
+        mesh = items/pill/PillPack,
+        texture = uv/drug/BismuthSubsalicylatePack,
+    }
+}

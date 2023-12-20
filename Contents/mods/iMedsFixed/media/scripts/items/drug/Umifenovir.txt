@@ -1,0 +1,35 @@
+module iMeds {
+    imports {
+        Base
+    }
+
+    item Umifenovir
+    {
+        Weight = 0.1,
+        Type = Drainable,
+        UseWhileEquipped = FALSE,
+        UseDelta = 0.2,
+        DisplayName = Umifenovir,
+        Icon = Blister,
+        Medical = TRUE,
+        DisplayCategory = FirstAid,
+        StaticModel = Blister,
+        WorldStaticModel = BlisterGround,
+        OnCreate = DrugCreator.OnCreateDrug,
+    }
+
+    item UmifenovirPack
+    {
+        Weight = 0.15,
+        Type = Drainable,
+        UseWhileEquipped = FALSE,
+        UseDelta = 1,
+        DisplayName = Umifenovir Pack,
+        Icon = PillPackRed,
+        Tooltip = UI_Item_UmifenovirPack_Description,
+        Medical = TRUE,
+        DisplayCategory = FirstAid,
+        StaticModel = UmifenovirPack,
+        WorldStaticModel = UmifenavirPackGround,
+    }
+}

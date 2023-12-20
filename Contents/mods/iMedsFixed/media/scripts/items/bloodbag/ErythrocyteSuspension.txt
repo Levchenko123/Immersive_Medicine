@@ -1,0 +1,109 @@
+module iMeds {
+    imports {
+        Base
+    }
+
+    item ErythrocyteSuspensionBagABN
+    {
+        Weight = 0.3,
+        Type = Food,
+        DaysFresh = 14,
+        DaysTotallyRotten = 15,
+        DisplayName = Erythrocyte suspension bag AB(IV) Rh-,
+        Icon = FullBloodBag,
+        DisplayCategory = FirstAid,
+        StaticModel = FullBloodBag,
+        WorldStaticModel = FullBloodBagGround,
+    }
+
+    item ErythrocyteSuspensionBagABP
+    {
+        Weight = 0.3,
+        Type = Food,
+        DaysFresh = 14,
+        DaysTotallyRotten = 15,
+        DisplayName = Erythrocyte suspension bag AB(IV) Rh+,
+        Icon = FullBloodBag,
+        DisplayCategory = FirstAid,
+        StaticModel = FullBloodBag,
+        WorldStaticModel = FullBloodBagGround,
+    }
+
+    item ErythrocyteSuspensionBagAN
+    {
+        Weight = 0.3,
+        Type = Food,
+        DaysFresh = 14,
+        DaysTotallyRotten = 15,
+        DisplayName = Erythrocyte suspension bag A(II) Rh-,
+        Icon = FullBloodBag,
+        DisplayCategory = FirstAid,
+        StaticModel = FullBloodBag,
+        WorldStaticModel = FullBloodBagGround,
+    }
+
+    item ErythrocyteSuspensionBagAP
+    {
+        Weight = 0.3,
+        Type = Food,
+        DaysFresh = 14,
+        DaysTotallyRotten = 15,
+        DisplayName = Erythrocyte suspension bag A(II) Rh+,
+        Icon = FullBloodBag,
+        DisplayCategory = FirstAid,
+        StaticModel = FullBloodBag,
+        WorldStaticModel = FullBloodBagGround,
+    }
+
+    item ErythrocyteSuspensionBagBN
+    {
+        Weight = 0.3,
+        Type = Food,
+        DaysFresh = 14,
+        DaysTotallyRotten = 15,
+        DisplayName = Erythrocyte suspension bag B(III) Rh-,
+        Icon = FullBloodBag,
+        DisplayCategory = FirstAid,
+        StaticModel = FullBloodBag,
+        WorldStaticModel = FullBloodBagGround,
+    }
+
+    item ErythrocyteSuspensionBagBP
+    {
+        Weight = 0.3,
+        Type = Food,
+        DaysFresh = 14,
+        DaysTotallyRotten = 15,
+        DisplayName = Erythrocyte suspension bag B(III) Rh+,
+        Icon = FullBloodBag,
+        DisplayCategory = FirstAid,
+        StaticModel = FullBloodBag,
+        WorldStaticModel = FullBloodBagGround,
+    }
+
+    item ErythrocyteSuspensionBagON
+    {
+        Weight = 0.3,
+        Type = Food,
+        DaysFresh = 14,
+        DaysTotallyRotten = 15,
+        DisplayName = Erythrocyte suspension bag O(I) Rh-,
+        Icon = FullBloodBag,
+        DisplayCategory = FirstAid,
+        StaticModel = FullBloodBag,
+        WorldStaticModel = FullBloodBagGround,
+    }
+
+    item ErythrocyteSuspensionBagOP
+    {
+        Weight = 0.3,
+        Type = Food,
+        DaysFresh = 14,
+        DaysTotallyRotten = 15,
+        DisplayName = Erythrocyte suspension bag O(I) Rh+,
+        Icon = FullBloodBag,
+        DisplayCategory = FirstAid,
+        StaticModel = FullBloodBag,
+        WorldStaticModel = FullBloodBagGround,
+    }
+}

@@ -1,0 +1,7 @@
+module Base {
+	model StethoscopeGround
+    {
+        mesh = WorldItems/other/Stethoscope,
+        texture = uv/Stethoscope,
+    }
+}

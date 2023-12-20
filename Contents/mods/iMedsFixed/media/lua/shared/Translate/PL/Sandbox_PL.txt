@@ -1,0 +1,5 @@
+Sandbox_PL = {
+    Sandbox_ImmersiveMedicine = "Medycyna immersyjna",
+    Sandbox_IsBloodSystemActive = "Włącz System Krwi",
+    Sandbox_IsBloodTypeSystemActive = "Włącz Grupy Krwi",
+}

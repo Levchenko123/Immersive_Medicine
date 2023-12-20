@@ -1,0 +1,26 @@
+module iMeds {
+    imports {
+        Base
+    }
+
+    recipe Disinfect Blood Bag
+    {
+        destroy FullBloodBag/ErythrocyteSuspensionBagABN/ErythrocyteSuspensionBagABP/ErythrocyteSuspensionBagAN/ErythrocyteSuspensionBagAP/ErythrocyteSuspensionBagBN/ErythrocyteSuspensionBagBP/ErythrocyteSuspensionBagON/ErythrocyteSuspensionBagOP,
+        Disinfectant=3,
+
+        Result:EmptyBloodBag,
+        Time:100.0,
+        Category:Health,
+    }
+
+    recipe Clean Blood Bag
+    {
+        FullBloodBag/ErythrocyteSuspensionBagABN/ErythrocyteSuspensionBagABP/ErythrocyteSuspensionBagAN/ErythrocyteSuspensionBagAP/ErythrocyteSuspensionBagBN/ErythrocyteSuspensionBagBP/ErythrocyteSuspensionBagON/ErythrocyteSuspensionBagOP,
+        Water,
+
+        Result:EmptyBloodBag,
+        Time:150.0,
+        Category:Health,
+        OnTest:Recipe.OnTest.NotTaintedWater,
+    }
+}

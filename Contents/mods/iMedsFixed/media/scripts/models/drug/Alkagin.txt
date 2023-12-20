@@ -1,0 +1,13 @@
+module Base {
+    model AlkaginPackGround
+    {
+        mesh = WorldItems/ampoule/AmpoulePack,
+        texture = uv/drug/AlkaginPack,
+    }
+
+    model AlkaginPack
+    {
+        mesh = items/ampoule/AmpoulePack,
+        texture = uv/drug/AlkaginPack,
+    }
+}

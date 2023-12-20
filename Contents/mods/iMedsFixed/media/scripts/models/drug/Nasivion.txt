@@ -1,0 +1,29 @@
+module Base {
+	model NasivionGround
+    {
+        mesh = WorldItems/bottle/SyrupBottle,
+        texture = uv/drug/Nasivion,
+        scale = 0.6
+    }
+
+    model Nasivion
+    {
+        mesh = items/bottle/SyrupBottle,
+        texture = uv/drug/Nasivion,
+        scale = 0.6
+    }
+
+    model NasivionPackGround
+    {
+        mesh = WorldItems/pill/PillPack,
+        texture = uv/drug/NasivionPack,
+        scale = 0.6
+    }
+
+    model NasivionPack
+    {
+        mesh = items/pill/PillPack,
+        texture = uv/drug/NasivionPack,
+        scale = 0.6
+    }
+}

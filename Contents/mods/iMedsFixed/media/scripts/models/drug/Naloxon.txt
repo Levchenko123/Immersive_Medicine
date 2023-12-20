@@ -1,0 +1,13 @@
+module Base {
+	model NaloxonPackGround
+    {
+        mesh = WorldItems/ampoule/AmpoulePack,
+        texture = uv/drug/NaloxonPack,
+    }
+
+    model NaloxonPack
+    {
+        mesh = items/ampoule/AmpoulePack,
+        texture = uv/drug/NaloxonPack,
+    }
+}

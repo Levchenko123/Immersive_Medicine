@@ -1,0 +1,109 @@
+module iMeds {
+    imports {
+        Base
+    }
+
+    item PlasmaBagABN
+    {
+        Weight = 0.3,
+        Type = Food,
+        DaysFresh = 90,
+        DaysTotallyRotten = 91,
+        DisplayName = Plasma bag AB(IV) Rh-,
+        Icon = PlasmaBag,
+        DisplayCategory = FirstAid,
+        StaticModel = PlasmaBag,
+        WorldStaticModel = PlasmaBagGround,
+    }
+
+    item PlasmaBagABP
+    {
+        Weight = 0.3,
+        Type = Food,
+        DaysFresh = 90,
+        DaysTotallyRotten = 91,
+        DisplayName = Plasma bag AB(IV) Rh+,
+        Icon = PlasmaBag,
+        DisplayCategory = FirstAid,
+        StaticModel = PlasmaBag,
+        WorldStaticModel = PlasmaBagGround,
+    }
+
+    item PlasmaBagAN
+    {
+        Weight = 0.3,
+        Type = Food,
+        DaysFresh = 90,
+        DaysTotallyRotten = 91,
+        DisplayName = Plasma bag A(II) Rh-,
+        Icon = PlasmaBag,
+        DisplayCategory = FirstAid,
+        StaticModel = PlasmaBag,
+        WorldStaticModel = PlasmaBagGround,
+    }
+
+    item PlasmaBagAP
+    {
+        Weight = 0.3,
+        Type = Food,
+        DaysFresh = 90,
+        DaysTotallyRotten = 91,
+        DisplayName = Plasma bag A(II) Rh+,
+        Icon = PlasmaBag,
+        DisplayCategory = FirstAid,
+        StaticModel = PlasmaBag,
+        WorldStaticModel = PlasmaBagGround,
+    }
+
+    item PlasmaBagBN
+    {
+        Weight = 0.3,
+        Type = Food,
+        DaysFresh = 90,
+        DaysTotallyRotten = 91,
+        DisplayName = Plasma bag B(III) Rh-,
+        Icon = PlasmaBag,
+        DisplayCategory = FirstAid,
+        StaticModel = PlasmaBag,
+        WorldStaticModel = PlasmaBagGround,
+    }
+
+    item PlasmaBagBP
+    {
+        Weight = 0.3,
+        Type = Food,
+        DaysFresh = 90,
+        DaysTotallyRotten = 91,
+        DisplayName = Plasma bag B(III) Rh+,
+        Icon = PlasmaBag,
+        DisplayCategory = FirstAid,
+        StaticModel = PlasmaBag,
+        WorldStaticModel = PlasmaBagGround,
+    }
+
+    item PlasmaBagON
+    {
+        Weight = 0.3,
+        Type = Food,
+        DaysFresh = 90,
+        DaysTotallyRotten = 91,
+        DisplayName = Plasma bag O(I) Rh-,
+        Icon = PlasmaBag,
+        DisplayCategory = FirstAid,
+        StaticModel = PlasmaBag,
+        WorldStaticModel = PlasmaBagGround,
+    }
+
+    item PlasmaBagOP
+    {
+        Weight = 0.3,
+        Type = Food,
+        DaysFresh = 90,
+        DaysTotallyRotten = 91,
+        DisplayName = Plasma bag O(I) Rh+,
+        Icon = PlasmaBag,
+        DisplayCategory = FirstAid,
+        StaticModel = PlasmaBag,
+        WorldStaticModel = PlasmaBagGround,
+    }
+}

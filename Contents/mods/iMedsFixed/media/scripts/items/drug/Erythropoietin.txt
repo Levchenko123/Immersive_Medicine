@@ -1,0 +1,35 @@
+module iMeds {
+    imports {
+        Base
+    }
+
+    item Erythropoietin
+    {
+        Weight = 0.05,
+        Type = Drainable,
+        UseWhileEquipped = FALSE,
+        UseDelta = 1,
+        DisplayName = Erythropoietin,
+        Icon = AmpouleGreen,
+        Medical = TRUE,
+        DisplayCategory = FirstAid,
+        StaticModel = Ampoule,
+        WorldStaticModel = AmpouleGround,
+        OnCreate = DrugCreator.OnCreateDrug,
+    }
+
+    item ErythropoietinPack
+    {
+        Weight = 0.5,
+        Type = Drainable,
+        UseWhileEquipped = FALSE,
+        UseDelta = 0.1,
+        DisplayName = Erythropoietin Pack,
+        Icon = ErythropoietinPack,
+        Tooltip = UI_Item_ErythropoietinPack_Description,
+        Medical = TRUE,
+        DisplayCategory = FirstAid,
+        StaticModel = ErythropoietinPack,
+        WorldStaticModel = ErythropoietinPackGround,
+    }
+}

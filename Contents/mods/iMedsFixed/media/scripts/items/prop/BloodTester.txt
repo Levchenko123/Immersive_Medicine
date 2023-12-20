@@ -1,0 +1,13 @@
+module iMeds {
+    imports {
+        Base
+    }
+
+    item BloodTester
+    {
+        Weight = 0.0,
+        Type = Normal,
+        DisplayName = UI_Item_BloodTester_Name,
+        Tooltip = UI_Item_BloodTester_Description,
+    }
+}

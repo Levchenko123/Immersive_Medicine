@@ -1,0 +1,13 @@
+module Base {
+	model UnknownPackGround
+    {
+        mesh = WorldItems/pill/PillPack,
+        texture = uv/drug/UnknownPack,
+    }
+
+	model UnknownPack
+    {
+        mesh = items/pill/PillPack,
+        texture = uv/drug/UnknownPack,
+    }
+}

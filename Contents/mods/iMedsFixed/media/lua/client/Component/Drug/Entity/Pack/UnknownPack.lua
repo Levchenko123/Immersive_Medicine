@@ -1,0 +1,3 @@
+UnknownPack = {
+    fullType = 'iMeds.UnknownPack',
+}

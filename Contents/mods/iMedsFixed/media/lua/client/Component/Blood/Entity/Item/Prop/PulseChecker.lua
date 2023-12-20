@@ -1,0 +1,3 @@
+PulseChecker = {
+    fullType = 'iMeds.PulseChecker'
+}

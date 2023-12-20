@@ -1,0 +1,25 @@
+module Base {
+	model HemoStopPackGround
+    {
+        mesh = WorldItems/other/HemoStopPack,
+        texture = uv/drug/HemoStopPack,
+    }
+
+	model HemoStopPack
+    {
+        mesh = items/other/HemoStopPack,
+        texture = uv/drug/HemoStopPack,
+    }
+
+	model HemoStopGround
+    {
+        mesh = WorldItems/other/HemoStop,
+        texture = uv/drug/HemoStop,
+    }
+
+	model HemoStop
+    {
+        mesh = items/other/HemoStop,
+        texture = uv/drug/HemoStop,
+    }
+}

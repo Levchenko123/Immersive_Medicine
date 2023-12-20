@@ -1,0 +1,54 @@
+module iMeds {
+    imports {
+        Base
+    }
+
+    item EmptyBloodBag
+    {
+        Weight = 0.05,
+        Type = Normal,
+        DisplayName = Empty Blood Bag,
+        Icon = EmptyBloodBag,
+        DisplayCategory = FirstAid,
+        StaticModel = EmptyBloodBag,
+        WorldStaticModel = EmptyBloodBagGround,
+    }
+
+    item FullBloodBag
+    {
+        Weight = 0.5,
+        Type = Food,
+        DaysFresh = 2,
+        DaysTotallyRotten = 3,
+        DisplayName = Full Blood Bag,
+        Icon = FullBloodBag,
+        DisplayCategory = FirstAid,
+        StaticModel = FullBloodBag,
+        WorldStaticModel = FullBloodBagGround,
+    }
+
+    item PeripheralVenousCatheter
+    {
+        Weight = 0.1,
+        Type = Normal,
+        DisplayName = Peripheral Venous Catheter,
+        Icon = PeripheralVenousCatheter,
+        DisplayCategory = FirstAid,
+        StaticModel = Catheter,
+        WorldStaticModel = CatheterGround,
+    }
+
+    item BloodTestingKit
+    {
+        Weight = 0.1,
+        Type = Drainable,
+        UseWhileEquipped = FALSE,
+        UseDelta = 1,
+        DisplayName = Blood Testing Kit,
+        Icon = BloodTestingKit,
+        cantBeConsolided = TRUE,
+        DisplayCategory = FirstAid,
+        StaticModel = Catheter,
+        WorldStaticModel = CatheterGround,
+    }
+}

@@ -1,0 +1,41 @@
+module Base {
+    item BloodPressureMonitorLeft
+    {
+        DisplayCategory = FirstAid,
+        Type = Clothing,
+        DisplayName = Nanasonic EW3039S,
+        ClothingItem = BloodPressureMonitorRight,
+        ClothingItemExtra = BloodPressureMonitorLeft,
+        BodyLocation = LeftWrist,
+        Icon = BloodPressureMonitor,
+        Weight = 0.1,
+        ClothingItemExtraOption = LeftWrist,
+        clothingExtraSubmenu = RightWrist,
+        Cosmetic = TRUE,
+        AlarmSound = WatchAlarmLoop,
+        SoundRadius = 7,
+        MetalValue = 2,
+        Tags = Digital,
+        WorldStaticModel = DigitalWatchBlack,
+    }
+
+    item BloodPressureMonitorRight
+    {
+        DisplayCategory = FirstAid,
+        Type = Clothing,
+        DisplayName = Nanasonic EW3039S,
+        ClothingItem = BloodPressureMonitorLeft,
+        ClothingItemExtra = BloodPressureMonitorRight,
+        BodyLocation = RightWrist,
+        Icon = BloodPressureMonitor,
+        Weight = 0.1,
+        ClothingItemExtraOption = RightWrist,
+        clothingExtraSubmenu = LeftWrist,
+        Cosmetic = TRUE,
+        AlarmSound = WatchAlarmLoop,
+        SoundRadius = 7,
+        MetalValue = 2,
+        Tags = Digital,
+        WorldStaticModel = DigitalWatchBlack,
+    }
+}

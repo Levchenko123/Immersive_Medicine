@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+    <files>
+        <path>media/clothing/clothingItems/HeartRateMonitorLeft.xml</path>
+        <guid>940e2166-2eeb-4c8a-9fce-e2e85d65cfd5</guid>
+    </files>
+    <files>
+        <path>media/clothing/clothingItems/HeartRateMonitorRight.xml</path>
+        <guid>f7b1a386-577a-443d-b61a-95870e42b3c9</guid>
+    </files>
+    <files>
+        <path>media/clothing/clothingItems/BloodPressureMonitorLeft.xml</path>
+        <guid>f186b371-6983-4de7-94a8-050e811b3f53</guid>
+    </files>
+    <files>
+        <path>media/clothing/clothingItems/BloodPressureMonitorRight.xml</path>
+        <guid>b0b721cb-f278-4d01-8d9c-5c1a4b0cbe10</guid>
+    </files>
+</fileGuidTable>

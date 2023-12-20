@@ -1,0 +1,89 @@
+module iMeds {
+    imports {
+        Base
+    }
+
+    item SyringePack
+    {
+        Weight = 0.5,
+        Type = Drainable,
+        UseWhileEquipped = FALSE,
+        Icon = SyringePack,
+        UseDelta = 0.1,
+        DisplayName = Syringes Pack,
+        Tooltip = UI_Item_SyringePack_Description,
+        DisplayCategory = FirstAid,
+        WorldStaticModel = SyringePackGround,
+        StaticModel = SyringePack,
+    }
+
+    item Syringe
+    {
+        Weight = 0.05,
+        Type = Normal,
+        Icon = Syringe,
+        DisplayName = Syringe,
+        Tooltip = UI_Item_Syringe_Description,
+        DisplayCategory = FirstAid,
+        WorldStaticModel = SyringeGround,
+        StaticModel = Syringe,
+        OnCreate = DrugCreator.OnCreateSyringe,
+    }
+
+    item NeedlePack
+    {
+        Weight = 0.5,
+        Type = Drainable,
+        UseWhileEquipped = FALSE,
+        UseDelta = 0.01,
+        Icon = NeedlePack,
+        DisplayName = Needle Pack,
+        Tooltip = UI_Item_NeedlePack_Description,
+        DisplayCategory = FirstAid,
+        WorldStaticModel = NeedlePackGround,
+        StaticModel = NeedlePack,
+    }
+
+    item Needle
+    {
+        Weight = 0.005,
+        Type = Normal,
+        Icon = InjectionNeedle,
+        DisplayName = Injection Needle,
+        Tooltip = UI_Item_Needle_Description,
+        DisplayCategory = FirstAid,
+        WorldStaticModel = InjectionNeedleGround,
+        StaticModel = InjectionNeedle,
+        OnCreate = DrugCreator.OnCreateNeedle,
+    }
+
+    item SyringeWithNeedle
+    {
+        Weight = 0.055,
+        Type = Drainable,
+        UseWhileEquipped = FALSE,
+        UseDelta = 0.2,
+        Icon = EmptySyringeWithNeedle,
+        DisplayName = Syringe with needle,
+        Tooltip = UI_Item_SyringeWithNeedle_Description,
+        DisplayCategory = FirstAid,
+        cantBeConsolided = TRUE,
+        WorldStaticModel = SyringeGround,
+        StaticModel = Syringe,
+    }
+
+    item FullSyringeWithNeedle
+    {
+        Weight = 0.05,
+        Type = Drainable,
+        UseWhileEquipped = FALSE,
+        UseDelta = 0.2,
+        Icon = FullSyringeWithNeedle,
+        DisplayName = Full syringe with needle,
+        Tooltip = UI_Item_FullSyringeWithNeedle_Description,
+        DisplayCategory = FirstAid,
+        cantBeConsolided = TRUE,
+        WorldStaticModel = SyringeGround,
+        StaticModel = Syringe,
+    }
+}

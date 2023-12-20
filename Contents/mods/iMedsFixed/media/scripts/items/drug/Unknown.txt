@@ -1,0 +1,19 @@
+module iMeds {
+    imports {
+        Base
+    }
+
+    item UnknownPack
+    {
+        Weight = 0.1,
+        Type = Drainable,
+        UseWhileEquipped = FALSE,
+        UseDelta = 1,
+        DisplayName = Unknown Pack,
+        Icon = PillPackPink,
+        Medical = TRUE,
+        DisplayCategory = FirstAid,
+        StaticModel = UnknownPack,
+        WorldStaticModel = UnknownPackGround,
+    }
+}

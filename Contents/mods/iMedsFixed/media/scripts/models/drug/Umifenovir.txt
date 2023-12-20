@@ -1,0 +1,13 @@
+module Base {
+	model UmifenavirPackGround
+    {
+        mesh = WorldItems/pill/PillPack,
+        texture = uv/drug/UmifenovirPack,
+    }
+
+    model UmifenavirPack
+    {
+        mesh = items/pill/PillPack,
+        texture = uv/drug/UmifenovirPack,
+    }
+}

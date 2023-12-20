@@ -1,0 +1,15 @@
+module iMeds {
+    imports {
+        Base
+    }
+
+    item Stethoscope
+    {
+        Weight = 0.2,
+        Type = Normal,
+        DisplayName = Stethoscope,
+        Icon = Stethoscope,
+        DisplayCategory = FirstAid,
+        WorldStaticModel = StethoscopeGround,
+    }
+}

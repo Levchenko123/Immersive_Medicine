@@ -1,0 +1,25 @@
+module Base {
+	model ButamirateGround
+    {
+        mesh = WorldItems/bottle/SyrupBottle,
+        texture = uv/drug/Butamirate,
+    }
+
+    model Butamirate
+    {
+        mesh = items/bottle/SyrupBottle,
+        texture = uv/drug/Butamirate,
+    }
+
+    model ButamiratePackGround
+    {
+        mesh = WorldItems/pill/PillPack,
+        texture = uv/drug/ButamiratePack,
+    }
+
+    model ButamiratePack
+    {
+        mesh = items/pill/PillPack,
+        texture = uv/drug/ButamiratePack,
+    }
+}

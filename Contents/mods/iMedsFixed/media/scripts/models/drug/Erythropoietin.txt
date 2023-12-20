@@ -1,0 +1,13 @@
+module Base {
+    model ErythropoietinPackGround
+    {
+        mesh = WorldItems/ampoule/AmpoulePack,
+        texture = uv/drug/ErythropoietinPack,
+    }
+
+    model ErythropoietinPack
+    {
+        mesh = items/ampoule/AmpoulePack,
+        texture = uv/drug/ErythropoietinPack,
+    }
+}

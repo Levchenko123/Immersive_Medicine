@@ -1,0 +1,13 @@
+module iMeds {
+    imports {
+        Base
+    }
+
+    item BloodVolumeReducer
+    {
+        Weight = 0.0,
+        Type = Normal,
+        DisplayName = UI_Item_BloodVolumeReducer_Name,
+        Tooltip = UI_Item_BloodVolumeReducer_Description,
+    }
+}

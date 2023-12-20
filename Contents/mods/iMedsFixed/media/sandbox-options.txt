@@ -1,0 +1,33 @@
+VERSION = 1,
+
+option ImmersiveMedicine.IsBloodSystemActive
+{
+	type = boolean, default = true,
+	page = ImmersiveMedicine, translation = IsBloodSystemActive,
+}
+
+option ImmersiveMedicine.IsBloodTypeSystemActive
+{
+	type = boolean, default = true,
+	page = ImmersiveMedicine, translation = IsBloodTypeSystemActive,
+}
+
+option ImmersiveMedicine.IsHeartbeatEnabled
+{
+	type = boolean, default = true,
+	page = ImmersiveMedicine, translation = IsHeartbeatEnabled,
+}
+
+option ImmersiveMedicine.BloodVolumeReduceModifier
+{
+    type = integer, default = 25,
+	min = 25, max = 100,
+	page = ImmersiveMedicine, translation = BloodVolumeReduceModifier,
+}
+
+option ImmersiveMedicine.BloodVolumeIncreaseModifier
+{
+    type = integer, default = 1,
+	min = 1, max = 4,
+	page = ImmersiveMedicine, translation = BloodVolumeIncreaseModifier,
+}

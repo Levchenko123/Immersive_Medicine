@@ -1,0 +1,57 @@
+ItemName_FR = {
+    ItemName_iMeds.EmptyBloodBag = "Poche de sang (vide)",
+    ItemName_iMeds.FullBloodBag = "Poche de sang (remplie)",
+    ItemName_iMeds.PeripheralVenousCatheter = "Cathéter",
+    ItemName_iMeds.BloodVolumeReducer = "Objet Système",
+    ItemName_iMeds.DrugApplier = "Objet Système",
+    ItemName_iMeds.BloodVolumeIncreaser = "Objet Système",
+    ItemName_iMeds.SyringePack = "Paquet de seringues de 5 ml.",
+    ItemName_iMeds.Syringe = "Seringue de 5 ml.",
+    ItemName_iMeds.NeedlePack = "Paquet d'aiguilles pour injection",
+    ItemName_iMeds.Needle = "Aiguilles pour injection",
+    ItemName_iMeds.SyringeWithNeedle = "Seringue pour injections i/v i/m",
+    ItemName_iMeds.FullSyringeWithNeedle = "Seringue avec médicament",
+
+    ItemName_iMeds.Alkagin = "Alkagin",
+    ItemName_iMeds.AlkaginPack = "Paquet d'Alkagin",
+
+    ItemName_iMeds.BismuthSubsalicylate = "Salicylate de Bismuth",
+    ItemName_iMeds.BismuthSubsalicylatePack = "Paquet de Salicylate de Bismuth",
+
+    ItemName_iMeds.Morphine = "Morphine",
+    ItemName_iMeds.MorphinePack = "Paquet de Morphine",
+
+    ItemName_iMeds.Naloxon = "Naloxone",
+    ItemName_iMeds.NaloxonPack = "Paquet de Naloxone",
+
+    ItemName_iMeds.Butamirate = "Butamirate",
+    ItemName_iMeds.ButamiratePack = "Paquet de Butamirate",
+
+    ItemName_iMeds.HemoStop = "HemoStop",
+    ItemName_iMeds.HemoStopPack = "Paquet d'HemoStop",
+
+    ItemName_iMeds.Umifenovir = "Umifenovir",
+    ItemName_iMeds.UmifenovirPack = "Paquet de Umifenovir",
+
+    ItemName_iMeds.UnknownPack = "Paquet de médicaments inconnus",
+
+    ItemName_iMeds.BloodTestingKit = "Kit pour prise de sang",
+    
+    ItemName_iMeds.ErythrocyteSuspensionBagABN = "Poche de globules rouges AB(IV) Rh-",
+    ItemName_iMeds.ErythrocyteSuspensionBagABP = "Poche de globules rouges AB(IV) Rh+",
+    ItemName_iMeds.ErythrocyteSuspensionBagAN = "Poche de globules rouges A(II) Rh-",
+    ItemName_iMeds.ErythrocyteSuspensionBagAP = "Poche de globules rouges A(II) Rh+",
+    ItemName_iMeds.ErythrocyteSuspensionBagBN = "Poche de globules rouges B(III) Rh-",
+    ItemName_iMeds.ErythrocyteSuspensionBagBP = "Poche de globules rouges B(III) Rh+",
+    ItemName_iMeds.ErythrocyteSuspensionBagON = "Poche de globules rouges O(I) Rh-",
+    ItemName_iMeds.ErythrocyteSuspensionBagOP = "Poche de globules rouges O(I) Rh+",
+
+    ItemName_iMeds.PlasmaBagABN = "Poche de plasma sanguin AB(IV) Rh-",
+    ItemName_iMeds.PlasmaBagABP = "Poche de plasma sanguin AB(IV) Rh+",
+    ItemName_iMeds.PlasmaBagAN = "Poche de plasma sanguin A(II) Rh-",
+    ItemName_iMeds.PlasmaBagAP = "Poche de plasma sanguin A(II) Rh+",
+    ItemName_iMeds.PlasmaBagBN = "Poche de plasma sanguin B(III) Rh-",
+    ItemName_iMeds.PlasmaBagBP = "Poche de plasma sanguin B(III) Rh+",
+    ItemName_iMeds.PlasmaBagON = "Poche de plasma sanguin O(I) Rh-",
+    ItemName_iMeds.PlasmaBagOP = "Poche de plasma sanguin O(I)Rh+",
+}

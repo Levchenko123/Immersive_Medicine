@@ -1,0 +1,3 @@
+SyringePack = {
+    fullType = 'iMeds.SyringePack',
+}

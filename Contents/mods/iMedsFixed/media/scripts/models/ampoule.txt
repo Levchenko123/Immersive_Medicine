@@ -1,0 +1,13 @@
+module Base {
+	model AmpouleGround
+    {
+        mesh = WorldItems/ampoule/Ampoule,
+        texture = uv/Ampoule,
+    }
+
+    model Ampoule
+    {
+        mesh = items/ampoule/Ampoule,
+        texture = uv/Ampoule,
+    }
+}

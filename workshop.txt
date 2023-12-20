@@ -1,0 +1,8 @@
+version=1
+id=3117354247
+title=Immersive Medicine - ***A temporary fix!!***
+description=by Levchenko
+description=
+description=Special thanks to Nyamops!
+tags=Build 41;Balance;Hardmode;Items;Multiplayer;Realistic
+visibility=public
